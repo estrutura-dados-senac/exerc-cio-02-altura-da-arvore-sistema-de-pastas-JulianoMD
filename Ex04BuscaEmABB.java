@@ -10,7 +10,7 @@ public class Ex04BuscaEmABB {
             atual = atual.esquerda;
         } else {
             atual = atual.direita;
-        }
+        } //
     }
 
     return false;

@@ -3,4 +3,3 @@ public class NoProduto {
     NoProduto esquerda;
     NoProduto direita;
 }
-}
