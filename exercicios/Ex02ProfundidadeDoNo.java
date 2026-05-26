@@ -1,6 +1,4 @@
-    package src;
-
-    public class Ex02ProfundidadeDoNo {
+public class Ex02ProfundidadeDoNo {
 
         public int profundidade(NoColaborador raiz, int alvo) {
             return profundidadeAuxiliar(raiz, alvo, 0);

@@ -1,6 +1,3 @@
-package src;
-
-
 public class Ex03AlturaDeUmNo {
         public int altura(NoArvore<String> atual){
             if (atual == null){

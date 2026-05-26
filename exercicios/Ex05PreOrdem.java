@@ -1,5 +1,3 @@
-package src;
-
 public class Ex05PreOrdem {
         public void preOrdem(NoArvore<String> atual){
             if (atual != null){

@@ -1,5 +1,3 @@
-package src;
-
 public class Ex04BuscaEmABB {
 
     public static boolean buscar(NoProduto raiz, int codigo) {

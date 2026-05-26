@@ -1,5 +1,3 @@
-package src;
-
 public class NoArvore<TIPO> {
     private TIPO valor;
     private NoArvore<TIPO> esquerda;

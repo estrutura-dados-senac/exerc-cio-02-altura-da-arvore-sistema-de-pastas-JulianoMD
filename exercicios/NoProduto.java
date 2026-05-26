@@ -1,5 +1,3 @@
-package src;
-
 public class NoProduto {
     int codigo;
     NoProduto esquerda;

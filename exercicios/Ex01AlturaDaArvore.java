@@ -1,5 +1,3 @@
-package src;
-
 public class Ex01AlturaDaArvore {
     public int altura(No raiz) {
     if (raiz == null) { return 0; }
