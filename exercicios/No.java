@@ -1,4 +1,4 @@
 public class No {
-    No esquerda;
-    No direita;
+    No left;
+    No right;
 }
