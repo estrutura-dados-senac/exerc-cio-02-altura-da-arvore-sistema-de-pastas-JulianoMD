@@ -9,5 +9,6 @@ public class Ex01AlturaDaArvore {
         int maiorAltura = Math.max(alturaEsquerda, alturaDireita);
 
         return 1 + maiorAltura;
+        // tt
     }
 }
