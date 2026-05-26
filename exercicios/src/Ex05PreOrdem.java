@@ -8,5 +8,4 @@ public class Ex05PreOrdem {
                 preOrdem(atual.getDireita());
             }
         }
-
 }
